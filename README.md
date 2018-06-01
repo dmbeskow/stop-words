@@ -4,6 +4,8 @@ This is a JSON file that I use for several projects.  99% of this file is taken 
 
 ## Usage
 
+The following code loads a stop-words dictionary in Python3
+
 ```python
 import json
 import urllib.request
